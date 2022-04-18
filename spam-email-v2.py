@@ -26,7 +26,7 @@ def spam():
  ║   ░ ░▒  ░ ░   ░▒ ░          ▒   ▒▒ ░   ░  ░      ░   ║
  ║   ░  ░  ░     ░░            ░   ▒      ░      ░      ║
  ║         ░                       ░  ░          ░      ║ 
- │             » developed by @mkdirlove «              │
+ │             » Instagram @Beibox YT «              │
  └───════════════════════════════════════════════════───┘
 """ + bcolors.ENDC)
 
