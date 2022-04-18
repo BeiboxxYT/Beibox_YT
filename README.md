@@ -34,5 +34,5 @@ or
 
 # PROOF
 
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/3.png)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/2.jpg)
 
