@@ -34,5 +34,5 @@ or
 
 # PROOF
 
-![FIRST RUN OF MY TOOL](https://github.com/BeiboxxYT/Beibox_YT.git/SPAM-EMAIL/blob/master/2.jpg)
+![FIRST RUN OF MY TOOL](https://github.com/BeiboxxYT/Beibox_YT/blob/main/1.jpg)
 
