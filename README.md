@@ -2,7 +2,7 @@
  Gmail, Yahoo, Hotmail/Outlook 
 
 #
-![FIRST RUN OF MY TOOL](https://github.com/BeiboxxYT/Beibox_YT/blob/main/1.png)
+![FIRST RUN OF MY TOOL](https://github.com/BeiboxxYT/Beibox_YT/blob/main/1.jpg)
 
 
 # FEATURES
